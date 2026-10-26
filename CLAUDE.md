@@ -11,3 +11,5 @@ This file is a pointer index: reach the material behind each pointer only when i
 **Prose** (writing any SKILL.md, docs page, README, CHANGELOG, ADR, changeset, or code comment): follow `CODING_STANDARDS.md`.
 
 **Triage** (labelling or judging an issue): use the canonical labels in `docs/agents/triage-labels.md`.
+
+Если документация репозитория противоречит существующему коду, следуй соглашениям, принятым в самом коде, а в финальном ответе укажи каждое найденное несоответствие между документацией и кодом.
